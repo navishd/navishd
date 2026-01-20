@@ -63,8 +63,8 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
   <br>
-  <a href="https://github.com/sanjeewa618?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeewa618&repo=sanjeewa618&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/navishd?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navishd&repo=navishd&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
